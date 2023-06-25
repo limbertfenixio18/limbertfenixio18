@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://www.linkedin.com/in/limbert-canqui-tambo-8612ba193" target="_blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="linkedIn" height="25px" width="30px" /></a>
-   <a href="https://leetcode.com/nourmorgan01/" target="_blank">
+   <a href="https://leetcode.com/limbertfenixio/" target="_blank">
     <img align="center" alt="leetcode | GitHub" height="25px" width="30px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
   </a> &nbsp;&nbsp;
 </p>
@@ -108,7 +108,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://old.tugerente.com/Imagenes/logotugnew.png"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="TuGerente" src="https://old.tugerente.com/Imagenes/logotugnew.png"/>](https://www.tugerente.com/)
 
 **Frontend - Mobile Developer** \
 [**TuGerente**](https://www.tugerente.com/) • Full-time \
@@ -116,7 +116,7 @@ Languages & Technologies: `React-Native`, `React`, `Typescript`, `Kotlin`, `Swif
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://drive.google.com/file/d/1BO9ZSGOi7VAqNJG4dPLBWFbVPQuDvfct/view?usp=sharing"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Innovative Apps" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfU3mI10krjLq2nyX2dNeH44-sWTcQziNPjA&usqp=CAU"/>](http://www.innovapplications.com/)
 
 **Full Stack - Mobile Developer** \
 [**Innovative Apps**](http://www.innovapplications.com/) • Full-time \
@@ -124,7 +124,7 @@ Languages & Technologies: `PHP`, `Ionic`, `Angular`, `Typescript`, `Javascript`,
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-cW_9yqTEdzXfO8FPVPl1c7j0wuF5vfm-2nK20yX9QgVqrzZADBqyGV8k6JWvgiJUsA&usqp=CAU"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="Nesas Bolivia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-cW_9yqTEdzXfO8FPVPl1c7j0wuF5vfm-2nK20yX9QgVqrzZADBqyGV8k6JWvgiJUsA&usqp=CAU"/>](http://www.nesasbolivia.com/)
 
 **Frontend Developer** \
 [**NES BOLIVIA**](http://www.nesasbolivia.com/) • Contract \
